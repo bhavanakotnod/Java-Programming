@@ -1,0 +1,15 @@
+package abstraction;
+import java.util.Scanner;
+
+public class Circle implements Shape {
+
+	@Override
+	public void area() {
+		double pi = 3.14;
+		Scanner sc = new Scanner(System.in);
+		 double radius = sc.nextInt()
+		
+		
+	}
+
+}

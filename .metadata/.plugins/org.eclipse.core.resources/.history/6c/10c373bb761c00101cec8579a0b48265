@@ -1,0 +1,26 @@
+package abstraction;
+import java.util.Scanner;
+
+public class ShapesArea {
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("enter the value of length  ");
+	    int length = sc.nextInt();
+	    System.out.println("enter the value of width   ");
+		int width = sc.nextInt();
+		Rectangle r = new Rectangle();
+		r.area();
+		rectangleArea = length*widthint ;
+		
+	 double radius = sc.nextInt();
+	 System.out.println("enter the value of radius "+radius);
+		
+		
+		Circle c = new Circle();
+		c.area();
+	}
+
+}

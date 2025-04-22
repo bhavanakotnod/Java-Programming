@@ -1,0 +1,9 @@
+package com.polymorphism;
+
+public class Shapes {
+	public static void main(String[] args) {
+		Circle t = new Triangle();
+		t.draw();
+	}
+
+}

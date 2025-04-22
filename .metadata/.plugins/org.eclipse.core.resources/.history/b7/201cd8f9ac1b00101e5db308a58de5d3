@@ -1,0 +1,17 @@
+package abstraction;
+
+// Class name with SbiBank implements the Interface 
+
+public class SbiBank implements Bank {
+	public void makePayment() {
+		System.out.println("SbiBank class is inherited by a Bank interface. we can not create a"
+				object of" );
+	}
+	public static void main(String[] args) {
+		Bank m = new Bank();
+		m.makePayment();
+		
+	}
+	
+
+}

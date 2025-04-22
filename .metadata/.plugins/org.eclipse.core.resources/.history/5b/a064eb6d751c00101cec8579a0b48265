@@ -1,0 +1,9 @@
+package abstraction;
+
+public interface Shape {
+	int reactangleArea = 0;
+	int 
+	
+ public abstract void area();
+ 
+}

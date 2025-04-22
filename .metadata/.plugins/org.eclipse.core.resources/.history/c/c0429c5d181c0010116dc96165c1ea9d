@@ -1,0 +1,12 @@
+package com.MultipleInheritence;
+
+public class Son implements Mother,Father {
+
+	@Override
+	public void m1() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}

@@ -1,0 +1,29 @@
+package abstraction;
+
+public class BankApp implements Deposite,Withdraw,BalanceCheck {
+
+	
+
+	@Override
+	public void bankBalance(double amount) {
+		double deposite = 2000;
+		System.out.println("deposited amount "+ deposite);
+		amount = amount+deposite;
+		System.out.println("saving...." +amount);
+		
+		double withdraw = 200;
+		amount = amount- withdraw;
+		System.out.println("after withdrawal of amount "+amount);
+		
+		
+		
+	}
+	public double checkbalance() {
+		
+	}
+
+	
+
+	
+
+}

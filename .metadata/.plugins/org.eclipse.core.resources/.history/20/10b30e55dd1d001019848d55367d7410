@@ -1,0 +1,5 @@
+package abstraction;
+
+public interface OrderPlcement {
+void pklaceOrder(String item, int Quantit)
+}

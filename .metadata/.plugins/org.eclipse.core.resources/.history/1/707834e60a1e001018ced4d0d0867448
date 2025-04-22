@@ -1,0 +1,16 @@
+package abstraction;
+
+public class PaymentSystem {
+	public static void main(String[] args) {
+		PaymentGateway p = new RefundService() {
+			
+			@Override
+			public void refund(double amount) {
+				// TODO Auto-generated method stub
+				
+			}
+		
+		
+	
+
+}

@@ -1,0 +1,17 @@
+package abstraction;
+
+public class Demo implements Printable,Showable {
+
+	@Override
+	public void display() {
+		Printable p = new Demo());
+		for(int i = 1;i<=num;i++) {
+			System.out.println("print number from 1 to 10 "+ i);
+		}
+		
+		
+		 
+		
+	}
+
+}

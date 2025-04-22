@@ -1,0 +1,8 @@
+package com.polymorphism;
+
+public class Sound extends Animal {
+	public void sound() {
+		System.out.println("sound of dog Bark");
+	}
+
+}

@@ -1,0 +1,10 @@
+package abstraction;
+
+// abstraction 
+//multipl
+
+public interface Bank {
+	public abstract void makePayment();
+	
+
+}

@@ -1,0 +1,9 @@
+package com.polymorphism;
+
+public class Bike {
+	private void Syso() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

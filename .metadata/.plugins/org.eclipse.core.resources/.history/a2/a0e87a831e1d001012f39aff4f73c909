@@ -1,0 +1,11 @@
+package abstraction;
+
+public class TransportTicket {
+	public static void main(String[] args) {
+		Transport t;
+		
+	Bus t = new Bus();
+		t.bookTicket();
+	}
+
+}

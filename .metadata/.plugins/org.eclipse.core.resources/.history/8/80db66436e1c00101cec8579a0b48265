@@ -1,0 +1,11 @@
+package abstraction;
+
+public class User implements Login{
+
+	@Override
+	public boolean login(String username,String password) {
+		if(username.equals("Bahvana")&& password == "bhavana@123"));
+		
+	}
+
+}

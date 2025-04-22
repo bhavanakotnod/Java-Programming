@@ -1,0 +1,12 @@
+package abstraction;
+
+public interface Shape {
+	int rectangleArea = 0;
+	int length = 0;
+	int width = 0;
+	double radius;
+	
+	
+ public abstract void area();
+ 
+}

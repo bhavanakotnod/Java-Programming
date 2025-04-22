@@ -1,0 +1,11 @@
+package practiceQuestions;
+
+public class VehicleDetails {
+	public static void main(String[]Vehicle v = new Vehicle();
+		Car c = new Car();
+		c.showCarType("BMW", "110Km/hrs");
+		
+	} 
+	
+
+}

@@ -1,0 +1,12 @@
+package practiceQuestions;
+
+public class Car extends Vehicle {
+	Car(String brand, String speed) {
+		
+	}
+
+	void showCarType() {
+		System.out.println("Car brand is "+ brand);
+	}
+
+}

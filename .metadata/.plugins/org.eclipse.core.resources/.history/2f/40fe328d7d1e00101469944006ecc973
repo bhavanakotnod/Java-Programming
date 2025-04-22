@@ -1,0 +1,14 @@
+package mock.practice;
+
+public class Prime {
+public void CheckPrime() {
+	int num=30;
+	for(int i=2;i<=num;i++) {
+		if(i%2==0) {
+			
+		}
+		
+		
+	}
+}
+}

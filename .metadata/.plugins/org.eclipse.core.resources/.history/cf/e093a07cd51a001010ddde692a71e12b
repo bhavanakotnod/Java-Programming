@@ -1,0 +1,11 @@
+package com.polymorphism;
+
+public class Student {
+	public Student() {
+		System.out.println("no argument constructor.....");
+	}
+	public Student(int roll_no) {
+		System.out.println("");
+	}
+
+}

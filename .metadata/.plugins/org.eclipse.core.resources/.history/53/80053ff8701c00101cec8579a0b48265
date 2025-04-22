@@ -1,0 +1,17 @@
+package abstraction;
+
+public class Admin implements Login {
+
+	@Override
+	public void login() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean authenticate(String username, String password) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

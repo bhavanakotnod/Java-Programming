@@ -1,0 +1,10 @@
+package abstraction;
+
+// abstraction 
+//multiple inheritence achieved by interfaces
+
+public interface Bank {
+	public abstract void makePayment();
+	
+
+}

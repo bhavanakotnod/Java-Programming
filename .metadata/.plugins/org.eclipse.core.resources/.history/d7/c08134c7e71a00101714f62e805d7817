@@ -1,0 +1,11 @@
+package com.polymorphism;
+
+public class PermanantEmployee {
+    public void calculateSalary();
+      private void Syso() {
+		// TODO Auto-generated method stub
+
+	}
+	
+
+}

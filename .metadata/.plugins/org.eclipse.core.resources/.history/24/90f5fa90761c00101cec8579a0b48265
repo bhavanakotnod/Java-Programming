@@ -1,0 +1,19 @@
+package abstraction;
+import java.util.Scanner;
+
+public class Rectangle implements Shape {
+
+	@Override
+	public void area() {
+		int length;
+		static int width;
+		
+		int rectangleArea = length*width;
+		System.out.println("area of rectangle is  "+rectangleArea);
+				
+		
+		
+	}
+	
+
+}

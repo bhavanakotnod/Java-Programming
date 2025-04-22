@@ -1,0 +1,11 @@
+package com.polymorphism;
+
+public class BankAccount {
+	public void deposite(double amount) {
+		System.out.println("Deposited amount "+ amount);
+	}
+	public void deposite(int amount, String mode) {
+		System.out.println("cash prise "+amount + "mode of amount in cheque"+  );
+	}
+
+}

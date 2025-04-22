@@ -1,0 +1,8 @@
+package abstraction;
+
+public interface Login {
+	public abstract void login();
+
+	public abstract boolean login(String username, String password);
+
+}

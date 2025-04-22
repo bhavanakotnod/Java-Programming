@@ -1,0 +1,8 @@
+package abstraction;
+
+public  Cat implements Animal {
+	public void sound() {
+		
+	}
+
+}

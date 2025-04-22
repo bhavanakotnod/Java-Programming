@@ -1,0 +1,23 @@
+package abstraction;
+
+public class CreditCardPay implements RefundService,NotificationService,PaymentGateway{
+
+	@Override
+	public void sendNotification(String message) {
+		
+		
+	}
+
+	@Override
+	public void refund(double amount) {
+		
+		
+	}
+
+	@Override
+	public void processPayment(double amount) {
+		System.out.println("Processing credit card payment of Rs. "+amount);
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package practiceQuestions;
+
+public class Car extends Vehicle {
+	Car(String brand, String speed) {
+		super(brand, speed);
+		// TODO Auto-generated constructor stub
+	}
+
+	void showCarType() {
+		System.out.println("Car brand is "+ brand);
+	}
+
+}

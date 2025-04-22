@@ -1,0 +1,9 @@
+package practiceQuestions;
+
+public class Bike extends Vehicle{
+	void showBikeType() {
+		
+	}
+	
+
+}

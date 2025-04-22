@@ -1,0 +1,30 @@
+package abstraction;
+
+public class Customer  implements ATM  {
+
+	
+
+	@Override
+	public void deposite(double amount) {
+		if(amount > 0) {
+			amount = amount+deposite_amount;
+			System.out.println("total amount is "+ amount);
+		}else {
+			System.out.println("balance must be greater than zero");
+		}
+		
+		
+	}
+	@Override
+	public void withDraw(double amount) {
+		if(amount > 0) {
+			amount =  withdraw_amount - amount;
+			System.out.println("after withdraw amount is  "+ amount);
+		}else {
+			System.out.println("insufficient balance");
+		}
+		
+		
+	}
+
+}

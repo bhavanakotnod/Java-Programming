@@ -1,0 +1,10 @@
+package practiceQuestions;
+
+public class Bike extends Vehicle{
+	void showBikeType(String brand,String speed) {
+		System.out.println("B");
+		
+	}
+	
+
+}

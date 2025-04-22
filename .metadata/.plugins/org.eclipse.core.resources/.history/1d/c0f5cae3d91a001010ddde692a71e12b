@@ -1,0 +1,18 @@
+package com.polymorphism;
+
+//method override 
+
+
+public class Sounds  extends Animal{
+	public void sound() {
+		System.out.println("sound of cat Meow-Meow");
+	}
+	public static void main(String[] args) {
+		Animal a = new Animal();     //
+		a.sound();
+		
+		Sounds s = new Sounds();
+		s.sound();
+	}
+
+}

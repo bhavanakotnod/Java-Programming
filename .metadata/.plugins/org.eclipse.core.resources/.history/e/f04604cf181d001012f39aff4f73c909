@@ -1,0 +1,16 @@
+package abstraction;
+
+public class VehicleEngine {
+	public static void main(String[] args) {
+		System.out.println();
+		Bike b = new Bike();
+		b.startEngine();
+		
+		Car c = new Car();
+		c.startEngine();
+		
+		Truck t =new Truck();
+		t.startEngine();
+	}
+
+}

@@ -1,0 +1,34 @@
+package abstraction;
+
+public class AmezonOrder implements OrderPlcement,Payment,Delivery {
+	String item;
+	int quantity;
+	double amount;
+	String address;
+	@Override
+	public void placeOrder(String item, int quantity) {
+		this.item = item;
+		this.quantity = quantity;
+		System.out.println("placed quantity : " +quantity + " X " +item);
+		
+		
+	}
+	@Override
+	public void makePayment(double amount) {
+		this.amount;
+		
+		
+	}
+
+
+	
+
+	@Override
+	public void makeorder(String address) {
+		
+		
+	}
+
+	
+	
+}

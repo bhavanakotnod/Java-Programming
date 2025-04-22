@@ -1,0 +1,9 @@
+package abstraction;
+
+public class CartPaymentMode {
+	public static void main(String[] args) {
+		checkOut c;
+		
+	}
+
+}

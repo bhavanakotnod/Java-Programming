@@ -1,0 +1,9 @@
+package com.polymorphism;
+
+public class Animal {
+	private void sound() {
+		System.out.println("sound of dog  Bark-Bark");
+	}
+	
+
+}

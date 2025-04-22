@@ -1,0 +1,17 @@
+package abstraction;
+
+public class CreditCardPay implements RefundService,NotificationService,UPIPay{
+
+	@Override
+	public void sendNotification(String message) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void refund(double amount) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

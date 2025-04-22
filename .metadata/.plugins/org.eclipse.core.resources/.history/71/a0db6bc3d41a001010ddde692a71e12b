@@ -1,0 +1,14 @@
+package com.polymorphism;
+
+public class DatatypesDisplay {
+	public void display(String a,String b) {
+		System.out.println("Display String data type  ");
+	}
+	public void display (int a ,int b) {
+		System.out.println("display interger data type  ");
+	}
+	public void display(int a, String s) {
+		System.out.println();
+	}
+
+}

@@ -1,0 +1,10 @@
+package abstraction;
+
+public class GooglePay implements OnlinePay {
+	public void makePayment() {
+		System.out.println("Google pay also used to make a online payment");
+	}
+	
+	
+
+}

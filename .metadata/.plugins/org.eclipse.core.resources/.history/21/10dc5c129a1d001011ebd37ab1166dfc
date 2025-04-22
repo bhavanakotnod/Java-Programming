@@ -1,0 +1,12 @@
+package abstraction;
+
+public class Demo implements Printable,Showable {
+
+	@Override
+	public void display() {
+		Printable p = new Printable();
+		
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.Methods.Employee"/>
+    <fullyQualifiedTypeName name="com.Methods.Food"/>
+    <fullyQualifiedTypeName name="com.Methods.University"/>
+    <fullyQualifiedTypeName name="com.Methods.Movie"/>
+    <fullyQualifiedTypeName name="ArgumentConstructor.Employe"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ScannerClass.Bank"/>
+    <fullyQualifiedTypeName name="com.inheritance.Salary"/>
+    <fullyQualifiedTypeName name="com.polymorphism.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="abstraction.Dog"/>
+    <fullyQualifiedTypeName name="abstraction.UPIPayment"/>
+    <fullyQualifiedTypeName name="abstraction.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="abstraction.RefundService"/>
+    <fullyQualifiedTypeName name="mock.practice.Prime"/>
+</qualifiedTypeNameHistroy>

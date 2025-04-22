@@ -1,0 +1,14 @@
+package abstraction;
+
+public interface ATM {
+	double deposite_amount;
+	
+	public ATM(double deposite_amount) {
+		this.deposite_amount=
+	}
+	
+	void deposite(double amount);
+	public abstract void withDraw();
+	
+
+}

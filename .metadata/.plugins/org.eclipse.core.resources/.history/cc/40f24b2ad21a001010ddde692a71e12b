@@ -1,0 +1,21 @@
+package com.polymorphism;
+
+public class AreaCalulator {
+	
+	public void area(double radius ,double pi) {
+		double circle = pi*radius*radius;
+		System.out.println("Area of circle"+circle);
+		
+		
+	}
+	public void area(double length ,double width) {
+		double rectangle = length*width;
+		System.out.println("area of rectangle "+rectangle);
+	}
+	public static void main(String args[] {
+		AreaCalulator a = new AreaCalculator();
+		a
+	}
+	
+
+}

@@ -1,0 +1,6 @@
+package abstraction;
+
+public class Cat implements Animal {
+	public void s
+
+}

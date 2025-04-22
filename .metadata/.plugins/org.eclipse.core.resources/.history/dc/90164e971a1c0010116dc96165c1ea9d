@@ -1,0 +1,6 @@
+package abstraction;
+
+public interface Login {
+	public abstract void login();
+
+}

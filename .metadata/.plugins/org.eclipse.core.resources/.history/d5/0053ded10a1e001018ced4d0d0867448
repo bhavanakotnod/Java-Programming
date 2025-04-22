@@ -1,0 +1,10 @@
+package abstraction;
+
+public class PaymentSystem {
+	public static void main(String[] args) {
+		PaymentGateway p = new ();
+		p.processPayment(0);
+	}
+	
+
+}

@@ -1,0 +1,16 @@
+package abstraction;
+
+public class hdfcInvestment implements MainBank {
+
+	@Override
+	public void showInvestment() {
+		System.out.println("investment in HDFC abnk "+ MainBank.hdfcInvestment);
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+	
+
+	
+}

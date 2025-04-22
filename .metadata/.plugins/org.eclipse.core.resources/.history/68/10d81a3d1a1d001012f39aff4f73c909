@@ -1,0 +1,11 @@
+package abstraction;
+
+public class PushNotification implements Notification{
+
+	@Override
+	public void notifyUser() {
+		
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package abstraction;
+
+public interface ATM {
+	
+	void deposite(double amount);
+	public abstract void withDraw();
+
+}

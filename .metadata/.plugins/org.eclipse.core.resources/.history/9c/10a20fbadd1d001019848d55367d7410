@@ -1,0 +1,23 @@
+package abstraction;
+
+public class AmezonOrder implements OrderPlcement,Payment,Delivery {
+	String item;
+	int quantity;
+	double amount;
+	String address;
+	
+
+	@Override
+	public void makeorder(String address) {
+		
+		
+	}
+
+	@Override
+	public void makeOrder(double order) {
+		
+		
+	}
+
+	
+}

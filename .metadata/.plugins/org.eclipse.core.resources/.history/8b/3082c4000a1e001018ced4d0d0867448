@@ -1,0 +1,23 @@
+package abstraction;
+
+public class UPIPay implements RefundService,NotificationService,PaymentGateway{
+
+	@Override
+	public void processPayment(double amount) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void sendNotification(String message) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void refund(double amount) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+package practiceQuestions;
+
+public class Vehicle {
+	public String brand;
+	public String speed;
+
+}

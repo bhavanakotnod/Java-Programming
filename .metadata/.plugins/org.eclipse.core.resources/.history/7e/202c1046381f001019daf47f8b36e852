@@ -1,0 +1,8 @@
+package practiceQuestions;
+
+public class Car extends Vehicle {
+	void showCarType() {
+		System.out.println();
+	}
+
+}

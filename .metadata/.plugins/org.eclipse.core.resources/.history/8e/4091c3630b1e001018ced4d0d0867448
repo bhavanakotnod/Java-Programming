@@ -1,0 +1,12 @@
+package abstraction;
+
+public class PaymentSystem {
+	public static void main(String[] args) {
+		
+		 System.out.println("=== Credit Card Payment ===");
+	        CreditCardPay ccpayment = new CreditCardPay();
+	       
+	
+	}
+	
+}

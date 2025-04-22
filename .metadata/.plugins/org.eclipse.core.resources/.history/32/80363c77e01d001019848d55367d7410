@@ -1,0 +1,5 @@
+package abstraction;
+
+public interface Cancellation {
+void cancleTicket(String TicketId);
+}

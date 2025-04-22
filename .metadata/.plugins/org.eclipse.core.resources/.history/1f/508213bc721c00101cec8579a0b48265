@@ -1,0 +1,13 @@
+package abstraction;
+
+public class Rectangle implements Shape {
+
+	@Override
+	public void area() {
+		int length,width;
+		
+		
+	}
+	
+
+}

@@ -1,0 +1,9 @@
+package abstraction;
+
+public class MainBankApp {
+	public static void main(String[] args) {
+		BankApp b = new bankBalance(30990);
+	
+	}
+
+}

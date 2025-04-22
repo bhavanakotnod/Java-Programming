@@ -1,0 +1,11 @@
+package abstraction;
+
+public class User implements Login{
+
+	@Override
+	public void login() {
+		if()
+		
+	}
+
+}

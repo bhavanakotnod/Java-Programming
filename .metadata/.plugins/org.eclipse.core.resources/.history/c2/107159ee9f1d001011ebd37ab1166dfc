@@ -1,0 +1,5 @@
+void amountpackage abstraction;
+
+public interface BalanceCheck {
+
+}

@@ -1,0 +1,8 @@
+package com.polymorphism;
+
+public class DatatypesDisplay {
+	public void display(String a,String b) {
+		
+	}
+
+}

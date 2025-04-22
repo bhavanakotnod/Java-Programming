@@ -1,0 +1,11 @@
+package abstraction;
+
+public class UPIPayment implements Cart{
+
+	@Override
+	public void checkOut() {
+		
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package abstraction;
+
+public class HindiGreeting implements Greeting{
+
+	@Override
+	public void sayHello() {
+		System.out.println("Hndi greeting ""Namaste!...");
+	}
+	
+
+}

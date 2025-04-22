@@ -1,0 +1,8 @@
+package com.polymorphism;
+
+public class Sparrow {
+	public void fly() {
+		System.out.println("flying spped of sporrow is slow than ");
+	}
+
+}

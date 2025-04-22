@@ -1,0 +1,29 @@
+package abstraction;
+
+public class User implements Login{
+
+	//@Override
+//	public boolean authenticate(String username,String password) {
+//		if(username.equals("Bahvana")&& password.equals("Bhavana@123")) {
+//			System.out.println("Successfully login");
+//			return true;
+//		}
+//		else {
+//			System.out.println("Invalid credential....");
+//		}
+//		
+//		
+//		
+//	}
+
+	public boolean authenticate(String username, String password) {
+		if (username.equals("shyam") && password.equals("shyam@123")) {
+			System.out.println("Successfully Login");
+			return true;
+		} else {
+			System.out.println("Invalid Credentials");
+			return false;
+		}
+	}
+
+}

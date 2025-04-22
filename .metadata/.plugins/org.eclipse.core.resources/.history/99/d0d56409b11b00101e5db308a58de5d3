@@ -1,0 +1,6 @@
+package abstraction;
+
+public class Dog implements  {
+	public void sound();
+
+}

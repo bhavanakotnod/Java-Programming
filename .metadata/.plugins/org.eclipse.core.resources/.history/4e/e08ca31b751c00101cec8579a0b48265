@@ -1,0 +1,17 @@
+package abstraction;
+import java.util.Scanner;
+
+public class ShapesArea {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		Circle c = new Circle();
+		c.area();
+		
+	 double radius = sc.nextInt();
+	 System.out.println("enter the value of radius "+radius);
+		Rectangle r = new Rectangle();
+		r.area();
+	}
+
+}

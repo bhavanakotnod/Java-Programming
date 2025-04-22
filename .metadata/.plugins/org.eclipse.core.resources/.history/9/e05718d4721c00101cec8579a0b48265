@@ -1,0 +1,17 @@
+package abstraction;
+import java.util.Scanner;
+
+public class Rectangle implements Shape {
+
+	@Override
+	public void area() {
+		int length,width;
+		Scanner sc = new Scanner(System.in);
+	    
+		
+		
+		
+	}
+	
+
+}

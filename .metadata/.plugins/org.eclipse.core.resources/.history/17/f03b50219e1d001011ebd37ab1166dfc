@@ -1,0 +1,9 @@
+package abstraction;
+
+public interface Arithmetic {
+	void add();
+	void sub();
+	void multi();
+	void div();
+
+}

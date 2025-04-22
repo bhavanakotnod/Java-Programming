@@ -1,0 +1,11 @@
+package abstraction;
+
+public class CreditCardPayment implements Cart {
+
+	@Override
+	public void checkOut() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

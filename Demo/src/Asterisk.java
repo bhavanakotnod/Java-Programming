@@ -3,7 +3,7 @@ public class Asterisk {
         int n = 4; // Total number of rows
 
         // Outer loop for the rows
-        for (int i = 1; i <= n; ++i) {
+        for (int i = 1; i <= n; i++) {
             // Print leading spaces for center alignment
             for (int j = 1; j <= (n - i); ++j) {
                 System.out.print(" "); // Spaces for alignment

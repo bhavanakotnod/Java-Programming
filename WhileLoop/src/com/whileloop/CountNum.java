@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CountNum {
     public static void main(String[] args) {
-        
+        // scanner class is used to get input from user
         Scanner scanner = new Scanner(System.in);
 
         

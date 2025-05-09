@@ -1,5 +1,5 @@
 package operator;
-
+//Bitwise Operator
 public class Bitwise {
 	public static void main(String args[])
 	{
@@ -11,7 +11,7 @@ public class Bitwise {
 		System.out.println(a >> b);   // Bitwise Right shift
 		System.out.println(a << b);   // Bitwise Left Shift
 		System.out.println(a ^ b);   // bitwise toggel
-		System.out.println( ~ b);   // 
+		System.out.println( ~ b);   // Bitwise not
 		
 		
 	}

@@ -3,16 +3,19 @@ package com.polymorphism;
  class AreaCalculator {
 
 	public void area(double radius ,double pi) {
+		// calculate the area of circle
 		double circle = pi*radius*radius;
 		System.out.println("Area of circle "+circle);
 		
 		
 	}
 	public void area(int length ,double width) {
+		// area of rectangle
 		double rectangle = length*width;
 		System.out.println("area of rectangle "+rectangle);
 	}
 	public void area(int side) {
+		// area of square
 		int square  = side*side;
 		System.out.println("Area of square "+square); 
 		

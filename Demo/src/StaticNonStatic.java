@@ -8,6 +8,7 @@ public class StaticNonStatic {
 	}
 	
 	static {
+		// static block using static keyword
 		System.out.println("This is static mthod");
 	}
 	

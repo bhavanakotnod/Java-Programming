@@ -1,11 +1,11 @@
 package Mock.jbk;
-
+//check the number is even or odd
 public class Evenodd {
 	
 	public static void main(String[] args) {
 		Evenodd.checkNature(87);
 	}
-
+          // parameterised method
 	public static void checkNature(int a) {
 
 		if (a % 2 == 0) {

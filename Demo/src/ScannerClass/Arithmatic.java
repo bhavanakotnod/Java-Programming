@@ -12,7 +12,7 @@ public class Arithmatic {
 	    //creation of object
 	    Arithmatic_operation add = new Arithmatic_operation();
 	    add.addition(a,b);
-	    
+	     // calling object 
 	    add.sub(a,b);
 	    add.mul(a,b);
 	    add.div(a,b);

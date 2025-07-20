@@ -3,7 +3,7 @@ package ScannerClass;
 public class Bank {
 	String account_holder;
 	double balance;
-	
+	//parameterised method
 	  public void deposite(double amount) {
 		  if(amount>0) {
 			  balance += amount;

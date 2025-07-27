@@ -1,5 +1,5 @@
 package com.Methods;
-
+//finding Ascii value of given number and ASCII number of given value
 public class AlphabetValue {
 	public static void main(String[] args) {
 		asciiValue(66);

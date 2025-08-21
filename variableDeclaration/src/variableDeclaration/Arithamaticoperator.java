@@ -1,5 +1,6 @@
 package variableDeclaration;
 
+//Arithmatic operators are used to perform operation
 public class Arithamaticoperator {
 	public static void main(String args[])
 	{
